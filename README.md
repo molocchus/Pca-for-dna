@@ -1,0 +1,3 @@
+# Pca-for-dna
+In half part I used framework but I had to perform PCA on my own...
+I lost most of the code, but i have saved results as png plots
